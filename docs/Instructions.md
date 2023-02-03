@@ -1,7 +1,7 @@
 # Version 1 - Specific number of incidents
 ## Setup
 1. Shuffle the Incident and Inject decks seperately
-2. Decide on a number (N) of Incidents to play through. In our experience, a single Incident corresponds to 12-15 mins. of play time.
+2. Decide on a number (`N`) of Incidents to play through. In our experience, a single Incident corresponds to 12-15 mins. of play time.
 ## Incident Phase
 3. Draw an Incident Card - The color of this card determines the number of Injects (`i`) that must be played through to resolve the Incident and avoid a state of hAIwire.
 
@@ -23,8 +23,8 @@
 |8-9|the response partially succeeded; discard the Inject card you just discussed and then play the next Inject card|
 |10|the response completely succeeded; draw a new Incident card|
 
-9. Repeat Steps 5-7 until i number of Injects have been played 
-10. Repeat steps 3-8 until N number of Incidents have been successfully completed
+8. Repeat Steps 5-7 until `i` number of Injects have been played 
+9. Repeat steps 3-8 until `N` number of Incidents have been successfully completed
 
 # Version 2 - Timed
 ## Setup
