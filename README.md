@@ -9,7 +9,7 @@ Files and tools used for the development and implementation of the hAIwire card 
 2. Discuss the Incident and formulate a group response strategy for ±2 mins.
 3. Draw the appropriate number of Inject cards specified on the Incident Card, and read the first Inject aloud to the group.
 
-|If you draw a ___ |then `i` = |
+|If you draw a ... |then `i` = |
 |---|---|
 |:green_circle: **Green** Incident Card |`2` Injects|
 |:yellow_circle: **Yellow** Incident Card|`3` Injects|
@@ -17,7 +17,7 @@ Files and tools used for the development and implementation of the hAIwire card 
 
 4. Discuss the Inject, updating or reformulating your response strategy, for ±2 mins. 5. Then roll a D10 (ten-sided gaming die).
 
-|If you roll a ___ | then ____ |
+|If you roll a... | then... |
 |---|---|
 |1-7|the response failed; Inject card persists, putting you in peril of hAIwire; play the next Inject card|
 |8-9|the response partially succeeded; discard the Inject card you just discussed and then play the next Inject card|
