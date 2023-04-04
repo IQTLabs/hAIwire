@@ -1,7 +1,9 @@
 # hAIwire
 Files and tools used for the development and implementation of the hAIwire card game
 
-## hAIwire Short Play* Instructions
+[Instructions](./docs/DigitalVersionInstructions.md) for how to set up your own digital version of hAIwire are available under docs.
+
+## hAIwire Short Play* Rules
 
 1. Draw an Incident card and read it aloud to the group.
 2. Discuss the Incident and formulate a group response strategy for ±2 mins.
