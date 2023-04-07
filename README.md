@@ -25,4 +25,4 @@ Files and tools used for the development and implementation of the hAIwire card 
 
 6. Repeat steps 3-5 until you've played all Inject cards for this Incident, at which point the round is complete. Reflect on your responses. Then return to Step 1 and begin a new round by drawing a new Incident card, if desired. 
 
-*Extended Play Rules (which incl. the Conscience role) are outlined separately. 
+*[Extended Play Rules](./docs/PhysicalDeckInstructions.md) (which incl. the Conscience role) are outlined separately. 
