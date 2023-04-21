@@ -1,7 +1,7 @@
 # Game Objective
-- hAIwire is a state of chaos in which your algorithmic decision-making system has caused harm to human beings, and continues to have consequences.
+- HAIWIRE is a state of chaos in which your algorithmic decision-making system has caused harm to human beings, and continues to have consequences.
 - The game objectives are:
-  - avoid hAIwire at all costs, **and**
+  - avoid HAIWIRE at all costs, **and**
   - resolve the Incident (and Injects), according to the game instructions below.
 -  In practice, this means: drawing an Incident card and then discarding all associated Injects within the time available to you.
 
@@ -12,7 +12,7 @@
 3. (_optional_) If you have 5 or more players, designate a Conscience of the Community to reflect on how well you addressed, mitigated, and prevented harm. Otherwise, the person who shuffled the Incident deck can take on this role.
 
 ## Incident Phase
-4. 🃏 Draw an Incident Card - The color of this card determines the number of Injects (`i`) that must be played through to resolve the Incident and avoid a state of hAIwire.
+4. 🃏 Draw an Incident Card - The color of this card determines the number of Injects (`i`) that must be played through to resolve the Incident and avoid a state of HAIWIRE.
 
 |If you draw a ___ |then `i` = |
 |---|---|
@@ -27,9 +27,17 @@
 
 |If you roll a ___ | then ____ |
 |---|---|
-|1-7|the response failed; Inject card persists, putting you in peril of hAIwire; play the next Inject card|
+|1-7|the response failed; Inject card persists, putting you in peril of HAIWIRE; play the next Inject card|
 |8-9|the response partially succeeded; discard the Inject card you just discussed and then play the next Inject card|
-|10|the response completely succeeded; hAIwire averted; draw a new Incident card|
+|10|the response completely succeeded; HAIWIRE averted; draw a new Incident card|
+
+Alternatively, if you have a d6 (six-sided die) on hand, use the following table:
+
+|If you roll a... | then... |
+|---|---|
+|1-4|the response failed; Inject card persists, putting you in peril of HAIWIRE; play the next Inject card|
+|5|the response partially succeeded; discard the Inject card you just discussed and then play the next Inject card|
+|6|the response completely succeeded; HAIWIRE averted; draw a new Incident card|
 
 8. Repeat Steps 5-7 until `i` number of Injects have been played 
 9. Before drawing a new Incident, ask the Conscience (or Dealer) how well the group addressed, mitigated, and prevented harm, incl. harm resulting from the Injects. (See [Conscience Questions]()).
@@ -61,6 +69,14 @@
 |8-9|the response partially succeeded; discard the Inject card you just discussed and then play the next Inject card|
 |10|the response completely succeeded; hAIwire averted; draw a new Incident card|
 
+Alternatively, if you have a d6 (six-sided die) on hand, use the following table:
+
+|If you roll a... | then... |
+|---|---|
+|1-4|the response failed; Inject card persists, putting you in peril of HAIWIRE; play the next Inject card|
+|5|the response partially succeeded; discard the Inject card you just discussed and then play the next Inject card|
+|6|the response completely succeeded; HAIWIRE averted; draw a new Incident card|
+
 8. Repeat Steps 5-7 until `i` number of Injects have been played 
-9. Before drawing a new Incident, ask the Conscience (or Dealer) how well the group addressed, mitigated, and prevented harm, incl. harm resulting from the Injects. (See [Conscience Questions]()).
+9. Before drawing a new Incident, briefly reflect on/discuss how well the group addressed, mitigated, and prevented harm, incl. harm resulting from the Injects. 
 10. Repeat steps 3-9 until time runs out.
